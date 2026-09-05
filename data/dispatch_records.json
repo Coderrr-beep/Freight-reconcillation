@@ -1,0 +1,346 @@
+[
+  {
+    "lr_number": "LR132938",
+    "dispatched_weight_tons": 6.43
+  },
+  {
+    "lr_number": "LR161324",
+    "dispatched_weight_tons": 6.27
+  },
+  {
+    "lr_number": "LR161483",
+    "dispatched_weight_tons": 15.97
+  },
+  {
+    "lr_number": "LR167136",
+    "dispatched_weight_tons": 6.72
+  },
+  {
+    "lr_number": "LR171262",
+    "dispatched_weight_tons": 4.03
+  },
+  {
+    "lr_number": "LR172574",
+    "dispatched_weight_tons": 10.29
+  },
+  {
+    "lr_number": "LR172792",
+    "dispatched_weight_tons": 7.18
+  },
+  {
+    "lr_number": "LR176066",
+    "dispatched_weight_tons": 16.94
+  },
+  {
+    "lr_number": "LR182582",
+    "dispatched_weight_tons": 16.17
+  },
+  {
+    "lr_number": "LR201639",
+    "dispatched_weight_tons": 5.86
+  },
+  {
+    "lr_number": "LR211579",
+    "dispatched_weight_tons": 5.68
+  },
+  {
+    "lr_number": "LR234628",
+    "dispatched_weight_tons": 14.49
+  },
+  {
+    "lr_number": "LR238890",
+    "dispatched_weight_tons": 11.06
+  },
+  {
+    "lr_number": "LR240814",
+    "dispatched_weight_tons": 16.98
+  },
+  {
+    "lr_number": "LR246991",
+    "dispatched_weight_tons": 11.04
+  },
+  {
+    "lr_number": "LR255287",
+    "dispatched_weight_tons": 15.52
+  },
+  {
+    "lr_number": "LR256294",
+    "dispatched_weight_tons": 4.13
+  },
+  {
+    "lr_number": "LR262316",
+    "dispatched_weight_tons": 13.78
+  },
+  {
+    "lr_number": "LR262998",
+    "dispatched_weight_tons": 16.35
+  },
+  {
+    "lr_number": "LR270395",
+    "dispatched_weight_tons": 5.32
+  },
+  {
+    "lr_number": "LR273148",
+    "dispatched_weight_tons": 17.2
+  },
+  {
+    "lr_number": "LR288073",
+    "dispatched_weight_tons": 5.66
+  },
+  {
+    "lr_number": "LR313487",
+    "dispatched_weight_tons": 12.07
+  },
+  {
+    "lr_number": "LR314181",
+    "dispatched_weight_tons": 17.02
+  },
+  {
+    "lr_number": "LR341292",
+    "dispatched_weight_tons": 11.82
+  },
+  {
+    "lr_number": "LR349565",
+    "dispatched_weight_tons": 4.06
+  },
+  {
+    "lr_number": "LR351083",
+    "dispatched_weight_tons": 15.1
+  },
+  {
+    "lr_number": "LR360735",
+    "dispatched_weight_tons": 15.93
+  },
+  {
+    "lr_number": "LR361650",
+    "dispatched_weight_tons": 16.48
+  },
+  {
+    "lr_number": "LR361941",
+    "dispatched_weight_tons": 7.18
+  },
+  {
+    "lr_number": "LR363319",
+    "dispatched_weight_tons": 15.79
+  },
+  {
+    "lr_number": "LR373903",
+    "dispatched_weight_tons": 4.73
+  },
+  {
+    "lr_number": "LR374680",
+    "dispatched_weight_tons": 8.0
+  },
+  {
+    "lr_number": "LR376183",
+    "dispatched_weight_tons": 16.14
+  },
+  {
+    "lr_number": "LR378517",
+    "dispatched_weight_tons": 7.71
+  },
+  {
+    "lr_number": "LR390120",
+    "dispatched_weight_tons": 4.38
+  },
+  {
+    "lr_number": "LR399105",
+    "dispatched_weight_tons": 14.78
+  },
+  {
+    "lr_number": "LR414569",
+    "dispatched_weight_tons": 13.08
+  },
+  {
+    "lr_number": "LR415568",
+    "dispatched_weight_tons": 13.16
+  },
+  {
+    "lr_number": "LR417212",
+    "dispatched_weight_tons": 9.57
+  },
+  {
+    "lr_number": "LR420015",
+    "dispatched_weight_tons": 15.25
+  },
+  {
+    "lr_number": "LR480612",
+    "dispatched_weight_tons": 3.29
+  },
+  {
+    "lr_number": "LR487477",
+    "dispatched_weight_tons": 16.21
+  },
+  {
+    "lr_number": "LR492077",
+    "dispatched_weight_tons": 5.98
+  },
+  {
+    "lr_number": "LR509386",
+    "dispatched_weight_tons": 3.03
+  },
+  {
+    "lr_number": "LR526117",
+    "dispatched_weight_tons": 8.31
+  },
+  {
+    "lr_number": "LR531071",
+    "dispatched_weight_tons": 8.31
+  },
+  {
+    "lr_number": "LR543692",
+    "dispatched_weight_tons": 16.09
+  },
+  {
+    "lr_number": "LR575763",
+    "dispatched_weight_tons": 9.52
+  },
+  {
+    "lr_number": "LR593554",
+    "dispatched_weight_tons": 8.74
+  },
+  {
+    "lr_number": "LR595948",
+    "dispatched_weight_tons": 6.64
+  },
+  {
+    "lr_number": "LR599948",
+    "dispatched_weight_tons": 3.75
+  },
+  {
+    "lr_number": "LR609231",
+    "dispatched_weight_tons": 5.49
+  },
+  {
+    "lr_number": "LR632496",
+    "dispatched_weight_tons": 5.36
+  },
+  {
+    "lr_number": "LR642717",
+    "dispatched_weight_tons": 9.57
+  },
+  {
+    "lr_number": "LR665427",
+    "dispatched_weight_tons": 10.28
+  },
+  {
+    "lr_number": "LR666847",
+    "dispatched_weight_tons": 3.76
+  },
+  {
+    "lr_number": "LR681343",
+    "dispatched_weight_tons": 13.0
+  },
+  {
+    "lr_number": "LR688153",
+    "dispatched_weight_tons": 9.63
+  },
+  {
+    "lr_number": "LR690341",
+    "dispatched_weight_tons": 12.32
+  },
+  {
+    "lr_number": "LR692683",
+    "dispatched_weight_tons": 12.86
+  },
+  {
+    "lr_number": "LR697347",
+    "dispatched_weight_tons": 9.06
+  },
+  {
+    "lr_number": "LR698782",
+    "dispatched_weight_tons": 17.03
+  },
+  {
+    "lr_number": "LR704596",
+    "dispatched_weight_tons": 12.09
+  },
+  {
+    "lr_number": "LR725550",
+    "dispatched_weight_tons": 3.57
+  },
+  {
+    "lr_number": "LR728038",
+    "dispatched_weight_tons": 16.78
+  },
+  {
+    "lr_number": "LR749468",
+    "dispatched_weight_tons": 11.92
+  },
+  {
+    "lr_number": "LR769987",
+    "dispatched_weight_tons": 7.48
+  },
+  {
+    "lr_number": "LR785197",
+    "dispatched_weight_tons": 3.81
+  },
+  {
+    "lr_number": "LR786508",
+    "dispatched_weight_tons": 7.3
+  },
+  {
+    "lr_number": "LR795612",
+    "dispatched_weight_tons": 17.23
+  },
+  {
+    "lr_number": "LR802448",
+    "dispatched_weight_tons": 14.74
+  },
+  {
+    "lr_number": "LR804314",
+    "dispatched_weight_tons": 7.68
+  },
+  {
+    "lr_number": "LR812526",
+    "dispatched_weight_tons": 10.64
+  },
+  {
+    "lr_number": "LR823378",
+    "dispatched_weight_tons": 14.33
+  },
+  {
+    "lr_number": "LR842225",
+    "dispatched_weight_tons": 3.11
+  },
+  {
+    "lr_number": "LR854377",
+    "dispatched_weight_tons": 3.03
+  },
+  {
+    "lr_number": "LR863587",
+    "dispatched_weight_tons": 3.91
+  },
+  {
+    "lr_number": "LR884309",
+    "dispatched_weight_tons": 11.13
+  },
+  {
+    "lr_number": "LR890170",
+    "dispatched_weight_tons": 17.53
+  },
+  {
+    "lr_number": "LR916449",
+    "dispatched_weight_tons": 11.09
+  },
+  {
+    "lr_number": "LR921414",
+    "dispatched_weight_tons": 17.36
+  },
+  {
+    "lr_number": "LR925622",
+    "dispatched_weight_tons": 15.16
+  },
+  {
+    "lr_number": "LR934794",
+    "dispatched_weight_tons": 3.63
+  },
+  {
+    "lr_number": "LR956795",
+    "dispatched_weight_tons": 12.81
+  },
+  {
+    "lr_number": "LR997546",
+    "dispatched_weight_tons": 9.65
+  }
+]

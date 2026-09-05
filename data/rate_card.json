@@ -1,0 +1,272 @@
+[
+  {
+    "rate_id": "RC001",
+    "transporter": "Ashok Transport Co.",
+    "origin": "Coimbatore",
+    "destination": "Bengaluru",
+    "vehicle_type": "16-ton truck",
+    "rate_per_ton": 1402.35,
+    "fixed_charge": 1176.7,
+    "acceptable_weight_variance_pct": 3.0
+  },
+  {
+    "rate_id": "RC002",
+    "transporter": "Ashok Transport Co.",
+    "origin": "Coimbatore",
+    "destination": "Chennai",
+    "vehicle_type": "10-ton truck",
+    "rate_per_ton": 1292.87,
+    "fixed_charge": 531.78,
+    "acceptable_weight_variance_pct": 3.0
+  },
+  {
+    "rate_id": "RC003",
+    "transporter": "Ashok Transport Co.",
+    "origin": "Chennai",
+    "destination": "Hyderabad",
+    "vehicle_type": "10-ton truck",
+    "rate_per_ton": 1013.98,
+    "fixed_charge": 1005.36,
+    "acceptable_weight_variance_pct": 3.0
+  },
+  {
+    "rate_id": "RC004",
+    "transporter": "Ashok Transport Co.",
+    "origin": "Ludhiana",
+    "destination": "Delhi",
+    "vehicle_type": "10-ton truck",
+    "rate_per_ton": 1270.93,
+    "fixed_charge": 1216.02,
+    "acceptable_weight_variance_pct": 3.0
+  },
+  {
+    "rate_id": "RC005",
+    "transporter": "Ashok Transport Co.",
+    "origin": "Delhi",
+    "destination": "Jaipur",
+    "vehicle_type": "32-ton trailer",
+    "rate_per_ton": 1015.33,
+    "fixed_charge": 1089.27,
+    "acceptable_weight_variance_pct": 3.0
+  },
+  {
+    "rate_id": "RC006",
+    "transporter": "Ashok Transport Co.",
+    "origin": "Pune",
+    "destination": "Mumbai",
+    "vehicle_type": "10-ton truck",
+    "rate_per_ton": 1419.11,
+    "fixed_charge": 659.66,
+    "acceptable_weight_variance_pct": 3.0
+  },
+  {
+    "rate_id": "RC007",
+    "transporter": "Bharat Roadlines",
+    "origin": "Chennai",
+    "destination": "Hyderabad",
+    "vehicle_type": "10-ton truck",
+    "rate_per_ton": 919.56,
+    "fixed_charge": 596.72,
+    "acceptable_weight_variance_pct": 3.0
+  },
+  {
+    "rate_id": "RC008",
+    "transporter": "Bharat Roadlines",
+    "origin": "Ludhiana",
+    "destination": "Delhi",
+    "vehicle_type": "20-ton trailer",
+    "rate_per_ton": 1302.79,
+    "fixed_charge": 1307.13,
+    "acceptable_weight_variance_pct": 3.0
+  },
+  {
+    "rate_id": "RC009",
+    "transporter": "Bharat Roadlines",
+    "origin": "Coimbatore",
+    "destination": "Bengaluru",
+    "vehicle_type": "32-ton trailer",
+    "rate_per_ton": 1252.17,
+    "fixed_charge": 1473.12,
+    "acceptable_weight_variance_pct": 3.0
+  },
+  {
+    "rate_id": "RC010",
+    "transporter": "Bharat Roadlines",
+    "origin": "Delhi",
+    "destination": "Jaipur",
+    "vehicle_type": "32-ton trailer",
+    "rate_per_ton": 909.1,
+    "fixed_charge": 793.18,
+    "acceptable_weight_variance_pct": 3.0
+  },
+  {
+    "rate_id": "RC011",
+    "transporter": "Bharat Roadlines",
+    "origin": "Pune",
+    "destination": "Mumbai",
+    "vehicle_type": "20-ton trailer",
+    "rate_per_ton": 1283.01,
+    "fixed_charge": 1204.57,
+    "acceptable_weight_variance_pct": 3.0
+  },
+  {
+    "rate_id": "RC012",
+    "transporter": "Sri Balaji Logistics",
+    "origin": "Rajkot",
+    "destination": "Ahmedabad",
+    "vehicle_type": "16-ton truck",
+    "rate_per_ton": 1499.86,
+    "fixed_charge": 880.13,
+    "acceptable_weight_variance_pct": 3.0
+  },
+  {
+    "rate_id": "RC013",
+    "transporter": "Sri Balaji Logistics",
+    "origin": "Pune",
+    "destination": "Mumbai",
+    "vehicle_type": "32-ton trailer",
+    "rate_per_ton": 1326.76,
+    "fixed_charge": 864.83,
+    "acceptable_weight_variance_pct": 3.0
+  },
+  {
+    "rate_id": "RC014",
+    "transporter": "Sri Balaji Logistics",
+    "origin": "Ludhiana",
+    "destination": "Delhi",
+    "vehicle_type": "20-ton trailer",
+    "rate_per_ton": 1116.45,
+    "fixed_charge": 1170.18,
+    "acceptable_weight_variance_pct": 3.0
+  },
+  {
+    "rate_id": "RC015",
+    "transporter": "Sri Balaji Logistics",
+    "origin": "Coimbatore",
+    "destination": "Chennai",
+    "vehicle_type": "10-ton truck",
+    "rate_per_ton": 1306.85,
+    "fixed_charge": 671.14,
+    "acceptable_weight_variance_pct": 3.0
+  },
+  {
+    "rate_id": "RC016",
+    "transporter": "Speedway Carriers",
+    "origin": "Rajkot",
+    "destination": "Ahmedabad",
+    "vehicle_type": "16-ton truck",
+    "rate_per_ton": 1363.46,
+    "fixed_charge": 1342.85,
+    "acceptable_weight_variance_pct": 3.0
+  },
+  {
+    "rate_id": "RC017",
+    "transporter": "Speedway Carriers",
+    "origin": "Coimbatore",
+    "destination": "Bengaluru",
+    "vehicle_type": "10-ton truck",
+    "rate_per_ton": 1021.79,
+    "fixed_charge": 532.1,
+    "acceptable_weight_variance_pct": 3.0
+  },
+  {
+    "rate_id": "RC018",
+    "transporter": "Speedway Carriers",
+    "origin": "Delhi",
+    "destination": "Jaipur",
+    "vehicle_type": "20-ton trailer",
+    "rate_per_ton": 1150.87,
+    "fixed_charge": 566.19,
+    "acceptable_weight_variance_pct": 3.0
+  },
+  {
+    "rate_id": "RC019",
+    "transporter": "Speedway Carriers",
+    "origin": "Chennai",
+    "destination": "Hyderabad",
+    "vehicle_type": "20-ton trailer",
+    "rate_per_ton": 1009.47,
+    "fixed_charge": 999.23,
+    "acceptable_weight_variance_pct": 3.0
+  },
+  {
+    "rate_id": "RC020",
+    "transporter": "Speedway Carriers",
+    "origin": "Ludhiana",
+    "destination": "Delhi",
+    "vehicle_type": "32-ton trailer",
+    "rate_per_ton": 957.15,
+    "fixed_charge": 639.63,
+    "acceptable_weight_variance_pct": 3.0
+  },
+  {
+    "rate_id": "RC021",
+    "transporter": "Speedway Carriers",
+    "origin": "Ahmedabad",
+    "destination": "Mumbai",
+    "vehicle_type": "20-ton trailer",
+    "rate_per_ton": 1410.26,
+    "fixed_charge": 928.43,
+    "acceptable_weight_variance_pct": 3.0
+  },
+  {
+    "rate_id": "RC022",
+    "transporter": "National Freight Movers",
+    "origin": "Pune",
+    "destination": "Mumbai",
+    "vehicle_type": "10-ton truck",
+    "rate_per_ton": 1495.83,
+    "fixed_charge": 652.84,
+    "acceptable_weight_variance_pct": 3.0
+  },
+  {
+    "rate_id": "RC023",
+    "transporter": "National Freight Movers",
+    "origin": "Ludhiana",
+    "destination": "Delhi",
+    "vehicle_type": "16-ton truck",
+    "rate_per_ton": 1444.06,
+    "fixed_charge": 922.16,
+    "acceptable_weight_variance_pct": 3.0
+  },
+  {
+    "rate_id": "RC024",
+    "transporter": "National Freight Movers",
+    "origin": "Coimbatore",
+    "destination": "Bengaluru",
+    "vehicle_type": "10-ton truck",
+    "rate_per_ton": 1138.58,
+    "fixed_charge": 1095.89,
+    "acceptable_weight_variance_pct": 3.0
+  },
+  {
+    "rate_id": "RC025",
+    "transporter": "National Freight Movers",
+    "origin": "Chennai",
+    "destination": "Hyderabad",
+    "vehicle_type": "32-ton trailer",
+    "rate_per_ton": 1246.84,
+    "fixed_charge": 1471.08,
+    "acceptable_weight_variance_pct": 3.0
+  },
+  {
+    "rate_id": "RC026",
+    "transporter": "National Freight Movers",
+    "origin": "Rajkot",
+    "destination": "Ahmedabad",
+    "vehicle_type": "10-ton truck",
+    "rate_per_ton": 1360.21,
+    "fixed_charge": 614.55,
+    "acceptable_weight_variance_pct": 3.0
+  },
+  {
+    "rate_id": "RC027",
+    "transporter": "National Freight Movers",
+    "origin": "Coimbatore",
+    "destination": "Chennai",
+    "vehicle_type": "20-ton trailer",
+    "rate_per_ton": 1426.45,
+    "fixed_charge": 840.18,
+    "acceptable_weight_variance_pct": 3.0
+  }
+]
